@@ -1,0 +1,12 @@
+(-main)
+(square 4)
+(-main)
+cls
+clear
+(-main)
+(square 10)
+(-main)
+(-main 3)
+(-main hello)
+(-main 'hello')
+(-main "hello")
